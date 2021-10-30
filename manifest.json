@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Smart Attendance System",
+  "version": "0.1.0",
+  "description": "Extension for students to join a class !",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/student.png"
+  },
+  "permissions": ["tabs"]
+}
